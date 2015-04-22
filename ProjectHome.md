@@ -1,0 +1,1 @@
+applikasi ini men generate controller models dan view codeigniter 2.0.1
